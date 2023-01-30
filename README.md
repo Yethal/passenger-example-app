@@ -1,1 +1,3 @@
-# passenger-example-app
+# README
+
+Example app using Rails and Passenger
