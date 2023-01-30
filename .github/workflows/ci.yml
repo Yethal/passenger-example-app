@@ -29,4 +29,4 @@ jobs:
           registry: ghcr.io
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository }}:latest
+          tags: ghcr.io/yethal/passenger-example-app:latest
