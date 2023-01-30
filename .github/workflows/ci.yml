@@ -5,6 +5,9 @@ name: CI
     branches:
       - main
 
+permissions:
+  packages: write
+
 jobs:
   docker:
     name: Build Docker image
